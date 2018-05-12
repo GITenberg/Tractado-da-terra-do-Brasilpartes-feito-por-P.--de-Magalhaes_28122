@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33159'
     url: http://www.gutenberg.org/2009/agents/33159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28122#Tractado-da-terra-do-Brasilpartes-feito-por-P.--de-Magalhaes
 gutenberg_issued: '2009-02-19'
 gutenberg_type: Text
 identifiers:
