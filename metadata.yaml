@@ -1,0 +1,33 @@
+_repo: Tractado-da-terra-do-Brasilpartes-feito-por-P.--de-Magalhaes_28122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gandavo, Pero de Magalhães
+    aliases:
+    - Gandavo, Pedro de Magalhães de
+    - Gandavo, Pero de Magalhaes
+    - Gândavo, Pedro de Magalhães
+    deathdate: 1576
+    gutenberg_agent_id: '33159'
+    url: http://www.gutenberg.org/2009/agents/33159
+description: ''
+gutenberg_issued: '2009-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28122'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2501'
+- !lcsh 'Brazil'
+title: 'Tractado da terra do Brasil
+
+  no qual se contem a informação das cousas que ha nestas
+
+  partes feito por P.º de Magalhaes'
+url: http://www.gutenberg.org/ebooks/28122
